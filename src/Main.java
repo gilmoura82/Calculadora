@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         int resultado = 0;
-        String msg, oper;
+        String msg, oper = null;
         String a = "";
         String b = "";
 
